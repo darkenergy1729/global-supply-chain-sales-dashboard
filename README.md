@@ -27,7 +27,7 @@ Interactive Excel dashboard analyzing sales performance, profitability, product 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard_preview.png)
 
 ### Skills Demonstrated
 
